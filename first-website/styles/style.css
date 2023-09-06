@@ -1,0 +1,55 @@
+p {
+  color: rgb(2, 2, 44);
+  width: 1000px;
+  background-color: rgb(16, 234, 241);
+  }
+
+  *body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "fantasy", sans-serif;
+    background-color:rgb(146, 118, 135)
+    
+    }
+
+    *body{
+        display: flex; 
+        justify-content: right;
+    align-items: left;
+    min-height: 100vh;
+    background-color: rgb(136, 103, 145);
+    }
+
+div.container{
+    margine: 100px auto;
+    width:75%
+    
+    }
+
+    img{
+        max-width: 350px;
+        float: right;
+        border-radius: 10px;
+        border: 3px solid rgb(255, 255, 255);
+        margin-right: 20px;
+        display: flex;
+    }
+
+    .text h1{
+        font-size: 50px;
+        padding: 5px;
+    }
+
+    h1{
+        color:rgb(22, 22, 1)
+    }
+
+    
+    p{
+        font-size: 30px;
+    }
+
+    ul li{
+        font: size 20px;
+       }
